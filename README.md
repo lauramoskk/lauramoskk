@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=50&center=false&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo+ao+meu+perfil+^^)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=50&center=false&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 Me chamo Laura Ramos, tenho 22 anos e sou estudante de Ciência da Computação. Sou apaixonada por tecnologia e estou sempre em busca de aprender coisas novas. Meu objetivo é crescer cada vez mais na área, explorando diferentes linguagens de programação.
 
@@ -43,6 +43,6 @@ Me chamo Laura Ramos, tenho 22 anos e sou estudante de Ciência da Computação.
 
 ##
 
-<div align="cemter">
-    <img src="https://raw.githubusercontent.com/lauramoskk/lauramoskk/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lauramoskk/lauramoskk/output/snake-custom.svg" alt="Snake animation" />
 </div>
