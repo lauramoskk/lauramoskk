@@ -1,75 +1,48 @@
-# 👩🏻‍💻 Laura Ramos
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=50&center=false&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo+ao+meu+perfil+^^)](https://git.io/typing-svg)
 
-**`Estudante de Ciência da Computação`**
+Me chamo Laura Ramos, tenho 22 anos e sou estudante de Ciência da Computação. Sou apaixonada por tecnologia e estou sempre em busca de aprender coisas novas. Meu objetivo é crescer cada vez mais na área, explorando diferentes linguagens de programação.
 
-Me chamo Laura Ramos, tenho 21 anos e sou estudante de Ciência da Computação. Sou apaixonada por tecnologia e estou sempre em busca de aprender coisas novas. Meu objetivo é seguir crescendo na área, explorando diferentes linguagens de programação e desenvolvendo soluções criativas para problemas do dia a dia.
+<br>
+ 
+<div align="left">
+  <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=lauramoskk&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka&locale=pt-br&title_color=1F6FEB&text_color=000&icon_color=000&bg_color=A5D8FF&border_color=58A6FF" />
+  &nbsp;&nbsp;&nbsp;
+  <img height=175 alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauramoskk&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple&locale=pt-br&title_color=1F6FEB&text_color=000&bg_color=A5D8FF&border_color=58A6FF" />
+</div>
 
-<p align="left">
-    <a href="https://github.com/lauramoskk?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/lauramoskk?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/lauramoskk?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/lauramoskk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+##
 
----
+### ⚙ Linguagens e tecnologias
 
-### 🤖 Linguagens e tecnologias
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
+</div>   
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+##
 
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+### ✉ Entre em contato
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>              
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauramos167652@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauramoskk)
 
-<br/>
-<br/>
+##
 
-### 📊 Estatísticas
-
-<p>
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=lauramoskk&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauramoskk&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-</p>
+<div align="cemter">
+    <img src="https://raw.githubusercontent.com/lauramoskk/lauramoskk/output/snake.svg" alt="Snake animation" />
+</div>
