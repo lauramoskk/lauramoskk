@@ -5,9 +5,11 @@ Me chamo Laura Ramos, tenho 22 anos e sou estudante de Ciência da Computação.
 <br>
  
 <div align="left">
-  <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=lauramoskk&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka&locale=pt-br&title_color=1F6FEB&text_color=000&icon_color=000&bg_color=A5D8FF&border_color=58A6FF" />
+  <img height=175 alt="GitHub Stats" 
+       src="https://github-readme-stats.vercel.app/api?username=lauramoskk&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&locale=pt-br&title_color=1F6FEB&text_color=000000&icon_color=000000&bg_color=A5D8FF&border_color=58A6FF&v=1" />
   &nbsp;&nbsp;&nbsp;
-  <img height=175 alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauramoskk&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple&locale=pt-br&title_color=1F6FEB&text_color=000&bg_color=A5D8FF&border_color=58A6FF" />
+  <img height=175 alt="Top Languages" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauramoskk&layout=compact&locale=pt-br&title_color=1F6FEB&text_color=000000&bg_color=A5D8FF&border_color=58A6FF&v=1" />
 </div>
 
 ##
