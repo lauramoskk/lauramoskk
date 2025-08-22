@@ -38,7 +38,7 @@ Me chamo Laura Ramos, tenho 22 anos e sou estudante de Ciência da Computação.
 
 ### ✉ Entre em contato
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauramos167652@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=lauramos167652@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauramoskk)
 
 ##
