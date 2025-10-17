@@ -2,16 +2,6 @@
 
 Me chamo Laura Ramos, tenho 22 anos e sou estudante de Ciência da Computação. Sou apaixonada por tecnologia e estou sempre em busca de aprender coisas novas. Meu objetivo é crescer cada vez mais na área, explorando diferentes linguagens de programação.
 
-<br>
- 
-<div align="left">
-  <img height=175 alt="GitHub Stats" 
-       src="https://github-readme-stats.vercel.app/api?username=lauramoskk&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&locale=pt-br&title_color=1F6FEB&text_color=000000&icon_color=000000&bg_color=A5D8FF&border_color=58A6FF" />
-  &nbsp;&nbsp;&nbsp;
-  <img height=175 alt="Top Languages" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauramoskk&layout=compact&locale=pt-br&title_color=1F6FEB&text_color=000000&bg_color=A5D8FF&border_color=58A6FF" />
-</div>
-
 ##
 
 ### ⚙ Linguagens e tecnologias
